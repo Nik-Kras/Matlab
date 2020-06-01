@@ -9,13 +9,13 @@ I finde harmonics of sound and find how they changes among the time. Contain of 
 
 <h2>Docs</h2>
 <ul>
-  <li><b>Исследование тембра.</b> - abstract devoted to the introduction to the topic of work, description of scientific work and results
+  <li><b>Исследование тембра.docx</b> - abstract devoted to the introduction to the topic of work, description of scientific work and results
   <li><b>Tone research.pdf</b> - exported as PDF LiveScript Tone research.mlx
 </ul>
 
 <h2>Videos</h2>
 <ul>
-  <li><b>SpectrumInTime</b> - movie, that shows how spectrum of original signal changes in time. Described in Second chapter of LiveScript
+  <li><b>SpectrumInTime_xxx.avi</b> - movie, that shows how spectrum of original signal changes in time. Described in Second chapter of LiveScript
 </ul>
 
 <h2>Sounds</h2>
