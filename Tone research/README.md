@@ -9,7 +9,7 @@ I finde harmonics of sound and find how they changes among the time. Contain of 
 
 <h2>Docs</h2>
 <ul>
-  <li><b>Исследование тембра</b> - abstract devoted to the introduction to the topic of work, description of scientific work and results
+  <li><b>Исследование тембра.</b> - abstract devoted to the introduction to the topic of work, description of scientific work and results
   <li><b>Tone research.pdf</b> - exported as PDF LiveScript Tone research.mlx
 </ul>
 
